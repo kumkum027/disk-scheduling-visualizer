@@ -684,9 +684,7 @@ body {
   .algo-cards-row { grid-template-columns: 1fr 1fr; }
 }
 
-/* =====================================================
-   SCROLLBAR
-   ===================================================== */
+/* Scrollbaar */
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: var(--bg-mid); }
 ::-webkit-scrollbar-thumb { background: var(--border-glow); border-radius: 3px; }
