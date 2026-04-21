@@ -34,5 +34,5 @@ Moves in one direction and reverses at the end (like an elevator).
 🔹 C-SCAN
 Moves in one direction and jumps back to start. Provides uniform waiting time.
 
-Objective
+Objective:
 To understand and compare disk scheduling algorithms based on performance metrics like seek time and efficiency.
